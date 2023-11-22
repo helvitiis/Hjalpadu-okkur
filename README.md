@@ -1,2 +1,2 @@
-# hjalpum-okkur
-Geymsla fyrir vefsíðuna „Hjálpum okkur,“ gerð fyrir innflytjendur og útlendinga búsetta á Íslandi.
+# Hjálpaðu okkur
+GitHub geymslur fyrir vefsíðuna "Hjálpaðu okkur", búið til fyrir innflytjendur og útlendinga sem búa á Íslandi.
