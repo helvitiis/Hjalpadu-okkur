@@ -1,4 +1,6 @@
-html{}
-body {
-    background-color: purple;
-  }
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab|Rye');
+body{
+    background-color: #F2DC9A;
+    background-image: url("");
+    background-repeat: repeat;
+}
